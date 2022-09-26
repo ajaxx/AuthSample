@@ -1,0 +1,24 @@
+body {
+    padding-top: 1rem;
+}
+
+.button.is-primary {
+    background-color: #00d1b2;
+    border-color: transparent;
+    color: #fff;
+}
+
+table tr th {
+    padding: 0.5rem;
+}
+
+table tr td {
+    padding: 0.5rem;
+}
+
+td.data {
+    font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
+    max-width: 600px;
+    overflow: hidden;
+    word-wrap: normal;
+}
