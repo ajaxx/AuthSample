@@ -1,0 +1,7 @@
+{
+    "client_id" : "Your client id",
+    "client_secret" : "Your secret",
+    "authorization_endpoint": "https://some-endpoint/authorize",
+    "token_endpoint": "https://some-endpoint/token",
+    "scope" : "read photos"
+}
